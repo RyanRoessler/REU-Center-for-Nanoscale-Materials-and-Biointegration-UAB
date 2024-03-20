@@ -1,4 +1,5 @@
 My research experience for undergraduates (REU) project: *3D-Bioprinted PCL/GelMA-HA Scaffolds for Guided Bone Regeneration (GBR)*  
+
 University of Alabama at Birmingham (UAB): Center for Nanoscale Materials and Biointegration  
 
 Here, we developed a novel, biocompatible, and biodegradable 3D printed scaffold for the purpose of surgical implantation and guided bone regeneration in patients with periodontitis (an extreme form of gingivitis involving severe recession of gums and enamel).  
