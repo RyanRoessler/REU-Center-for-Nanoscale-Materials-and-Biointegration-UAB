@@ -12,4 +12,4 @@ Project outline:
 7. Perform analyses on scaffolds such as scanning electron microscopy (SEM), x-ray photoelectron spectroscopy (XPS), FT-IR, rheology, and water contact angle
 8. Perform cell-viability assays on scaffolds to determine biocompatibility
 
-We successfully completed this project, discovering novel effects of LTP treatment on photopolymerization of hydrogel, leading to weakened structural integrity for infiltrated scaffolds.
+We successfully completed this project, discovering novel effects of LTP treatment on photopolymerization of hydrogel, leading to weakened structural integrity of infiltrated scaffolds.
